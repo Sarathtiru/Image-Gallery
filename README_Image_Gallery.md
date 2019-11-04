@@ -13,5 +13,4 @@ Before releasing the application
 2. If possible use immediately invoked function expression(IIFE) for data privacy and security.
 3. For CSS don't write unnecessary code , DRY code, avoid nesting.      
 2. Define an efficient folder structure.
-3. Write proper testing of the application using testing tools.
-4. Build the application using npm and webpack.
+
